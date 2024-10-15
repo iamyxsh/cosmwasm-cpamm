@@ -193,6 +193,10 @@ Contributions are welcome! Please open issues or pull requests to improve the co
 
 ---
 
+## Author
+
+Yash Sharma <iamyxsh@icloud.com>
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
